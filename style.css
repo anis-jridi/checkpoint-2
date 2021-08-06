@@ -1,0 +1,120 @@
+#menu {
+  background-color: hsl(180, 100%, 50%);
+  font-family: "Roboto";
+  font-size: 20px;
+  display: flex;
+  justify-content: space-around;
+  margin: 10px;
+  padding: 20px;
+  border: 5px solid #555;
+}
+button {
+  background-color: rgb(238, 238, 6);
+}
+ul {
+  list-style: none;
+}
+body {
+  background-color: rgb(175, 175, 209);
+  font-family: "Roboto";
+  padding-right: 100px;
+  padding-left: 100px;
+}
+h1 {
+  font-family: "Roboto";
+  font-size: 40px;
+  text-align: center;
+  font-style: oblique;
+  color: chocolate;
+  border: dotted;
+  border-color: darkgray;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+p {
+  font-family: "Roboto";
+  font-size: 15px;
+  text-align: justify;
+}
+img {
+  width: 550px;
+  height: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+iframe {
+  width: 1105px;
+  height: 700px;
+  text-align: center;
+}
+#name {
+  font-size: 20px;
+  stop-color: crimson;
+  font-display: right;
+}
+#date {
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.edu {
+  font-size: 20px;
+  font-family: 'Roboto';
+  src: url("cac_champagne-webfont.eot");
+}
+table {
+  border-bottom: rgb(8, 73, 8);
+  width: 500px;
+  height: 30px;
+  background-color: chartreuse;
+  border: medium solid #000000;
+  width: 50%;
+}
+td,
+th {
+  border: thin solid #6495ed;
+  width: 50%;
+}
+td {
+  font-size: larger;
+}
+#icone {
+  width: 40px;
+  height: 40px;
+  vertical-align: middle;
+}
+#train {
+  vertical-align: top;
+  display: inline;
+}
+#input {
+  font-size: 17px;
+}
+#haut {
+  width: 20px;
+  height: 20px;
+  text-align: right;
+}
+#ttop {
+  text-align: right;
+}
+form {
+  display: table;
+  font-size: medium;
+  font-family: 'Roboto';
+}
+label {
+  display: table-row;
+  padding-right: 15px;
+}
+input {
+  display: table-cell;
+}
+footer {
+  text-align: center;
+  background-color: black;
+  color: blanchedalmond;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
